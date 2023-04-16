@@ -1,7 +1,7 @@
 ---
-title: "Title"
+title: "Research on Labor Market Participation Based on Sex"
 author: 
-  - Last Name, First Name[^1]
+  - NAGHIYEVA, Malak [^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa.csl
 header-includes:
@@ -32,36 +32,29 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== FOOTNOTES ============================== -->
 <!-- ======================================================================= -->
-[^1]: Student ID, [Github Repo](https://github.com/YOUR_USER_NAME_HERE/YOUR_REPO_NAME_HERE)
+[^1]: 20080159, [Github Repo](https://github.com/MelekNaghi/Midterm.git)
 
-# Important Information About Midterm
-
-\colorbox{BurntOrange}{WRITE YOUR GITHUB REPO LINK ON LINE 35 IN THIS FILE!}
-
-**Project Proposal submisson will be done by uploading a zip file to the ekampus system along with the Github repo link. If you do not upload a zip file to the system and do not provide a Github repo link, you will be deemed not to have entered the midterm and final exams.**
-
-**You must upload your project folder (`YourStudentID.zip` file) to *ekampus.ankara.edu.tr* until 16 April 2023, 23:59.**
-
-\colorbox{WildStrawberry}{Read the README.md file in the project folder for more information.}
 
 # Introduction
-This outline has been created to assist you in writing your project assignment. You should cite all the sources you use, articles, presentations, projects, etc. Quoting and referencing gives readers the opportunity to access the resources you refer. **Even though you use your own words, if you are conveying the ideas of others in your work, you have to document the source of these ideas. Otherwise, you are committing academic plagiarism.** For example, you can refer to @aydinonat:2007 for academic writing rules. You can find lots of online resources on this topic.
+The labor market is a gendered institution, and even if education levels are the same, labor force participation is biased against one gender. Feminist economists criticize mainstream economics and argue that the market structure remains gendered, despite the decreasing gender wage gap. In addition, factors such as age, marital status, and area of living influence employment status, with women having fewer opportunities to commute or relocate.
 
-The sections in your project assignment must necessarily include the sections in this text (except the first section, of course). Apart from the sections used here, you can use different subsections. When writing your project, use this file as a draft and adapt its content to your purposes.
+The research aims to address the question of whether the market system is a gendered institution that creates mass inequality in labor force participation. To investigate this phenomenon, the study will examine whether factors such as marital status, age, and area of living affect women more than men. The study will also compare the sex ratio of the labor force based on educational level.
 
-In this section, mention the purpose and importance of your work in a few paragraphs.
+The study will use three data sets from ILO, supplemented by relevant literature. All sources will be cited in the references section.
 
 ## Literature Review
 
-In this section, discuss the articles you have read on the subject by giving references. This is a narrative citation @chang:2013. This one is a parenthetical citation [@chang:2013]. **Do not summarize each article individually under a separate title.** In the literature review section, **at least four** articles must be cited [@newbold:2003; @verzani:2014; @wickham:2014; @wooldridge:2015a].
+Mainstream economics view labor markets as neutral arenas that focus solely on efficient production. However, feminist economists argue that this approach creates unequal empowerment between men and women due to two reasons. Firstly, even though the labor markets themselves do not create unequal opportunities within society, the unequal system boosts efficiency, therefore nurturing markets [@elson1999labor]. Secondly, from a feminist perspective, it is a prominent issue that, even though labor force participation has increased in developing countries, most of the women's participation belongs to export-oriented sectors with less stable and long-term jobs, creating further inequalities [@ngai2007gendering].
+
+Women's force participation is vital for economic development. It is observed that the Middle East and North Africa regions have made progress in gender participation in education in the last four decades [@assaad2020explaining]. When economic development is considered to increase the total welfare without worsening anyone which is called harmonizing up, women's labor force participation tends to increase. Unfortunately, this relationship is not consistent and may empower men more than women, resulting in an inconsistent improvement in overall welfare [@verick2014female].
 
 
 
-**References section is created automatically by Rmarkdown. There is no need to change the references section in the draft file.**
 
-**_You shouldn't delete the last 3 lines. Those lines are required for References section._**
 
 \newpage
 # References {#references}
 <div id="refs"></div>
+
+
 
